@@ -5,7 +5,7 @@
 ### Project Objectives:
 
 1. Create a _[customer performance report.](https://github.com/Kajal553/Sales-Report-Finance-Report-for-Atliq-Hardware/blob/main/Customers%20Netsales%20Performance%20Report1.pdf)_
-2. Conduct a comprehensive comparison between _[market performance vs sales targets.]()_
+2. Conduct a comprehensive comparison between _[market performance vs sales targets.](https://github.com/Kajal553/Sales-Report-Finance-Report-for-Atliq-Hardware/blob/main/Market%20Performance%20Vs%20Target.pdf)_
 
 **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,7 +17,7 @@
 
 **Project Objectives:**
 
-1. Create Profit and Loss (P&L) reports by Markets.
+1. Create Profit and Loss _[(P&L) reports by Markets.](https://github.com/Kajal553/Sales-Report-Finance-Report-for-Atliq-Hardware/blob/main/P%26L%20statement%20by%20Market.pdf)_
 
 **Purpose of Finance Analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
