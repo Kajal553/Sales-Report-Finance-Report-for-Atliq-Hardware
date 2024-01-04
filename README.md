@@ -4,8 +4,8 @@
 
 ### Project Objectives:
 
-1. Create a customer performance report.
-2. Conduct a comprehensive comparison between market performance vs sales targets.
+1. Create a _[customer performance report.](https://github.com/Kajal553/Sales-Report-Finance-Report-for-Atliq-Hardware/blob/main/Customers%20Netsales%20Performance%20Report1.pdf)_
+2. Conduct a comprehensive comparison between _[market performance vs sales targets.]()_
 
 **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
